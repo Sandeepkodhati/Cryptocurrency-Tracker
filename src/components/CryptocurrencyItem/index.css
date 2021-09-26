@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.currency-image {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.row-styling {
+  display: flex;
+  margin-top: 15px;
+}
+
+.currency-description {
+  font-size: 17px;
+  font-family: 'Roboto';
+  color: white;
+  font-weight: bold;
+  list-style-type: none;
+  margin-top: 5px;
+}
+
+.custom-description {
+  font-size: 17px;
+  font-family: 'Roboto';
+  color: white;
+  list-style-type: none;
+  margin-right: 10px;
+}
